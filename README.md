@@ -1,6 +1,6 @@
 ## L0-task 
 
-Work with nats-streaming, database Postgres and realize http handler
+Work with nats-streaming, database Postgres and implement simple http handler
 
 ### Start project 
 
