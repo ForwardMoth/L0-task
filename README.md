@@ -6,7 +6,7 @@ Work with nats-streaming, database Postgres and realize http handler
 
 1. Start nats streaming
 ```bash
-    nats-server --js
+  nats-server --js
 ```
 2. Start listener nats and http handler (go app)
 ```bash
@@ -14,12 +14,12 @@ Work with nats-streaming, database Postgres and realize http handler
 ```
 3. Publish in nats json
 ```bash
-    make pub
+  make pub
 ```
 
 Migration of table in migration directory 
 
-YAML config struct 
+YAML config struct in src/config
 
 ```yaml
 env: "local"
